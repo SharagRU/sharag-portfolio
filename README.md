@@ -26,4 +26,4 @@ If you would like to run this project locally, follow these steps:
    ```bash
    cd your-repo-name
    ```
-3. Open `index.html` in your favorite browser (or run `npm install` / `npm run dev` if using a modern framework).
+3. Open `index.html` in your favorite browser.
